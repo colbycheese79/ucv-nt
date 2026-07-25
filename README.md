@@ -1,6 +1,6 @@
 # Updated Common Version New Testament (UCV-NT)
 
-[![License: Public Domain](https://img.shields.io/badge/License-Public_Domain-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Base Text](https://img.shields.io/badge/Base_Text-Webster's_1833_Common_Version-blue.svg)](#about-the-base-text)
 [![Scope](https://img.shields.io/badge/Scope-New_Testament-orange.svg)](#scope)
 
@@ -70,10 +70,10 @@ The Book of Revelation includes four targeted textual corrections where early pr
 
 ---
 
-## Public Domain Dedication
+## License & Public Domain Dedication (CC0 1.0)
 
-This project and all text contained within it are dedicated entirely to the **Public Domain**.
+This project is dedicated to the public domain under the **Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication**.
 
-No rights are reserved. You are free to copy, modify, publish, distribute, perform, translate, or use this text for any personal, church, academic, or commercial purpose without asking permission or paying royalties.
+To the extent possible under law, all copyright and related or neighboring rights to this work have been waived. You are free to copy, modify, publish, distribute, perform, translate, or use this text for any personal, church, academic, or commercial purpose without asking permission or paying royalties.
 
 > *Freely you have received, freely give.* (Matthew 10:8)
