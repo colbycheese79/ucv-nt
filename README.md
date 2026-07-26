@@ -54,7 +54,7 @@ The archaic usage of "charity" (from the Latin *caritas*) in place of "love" (*a
 * **"Haply" $\rightarrow$ "Perhaps":** Changed in all occurrences (e.g., Luke 14:29, Acts 5:39, Acts 17:27) to prevent common confusion with "happily."
 * **"Dissimulation" $\rightarrow$ "Hypocrisy":** Updated in passages like **Romans 12:9** and **Galatians 2:13**.
 * **"Corn" $\rightarrow$ "Grain"**
-* **"Dust" $\rightarrow$ "Dared"**
+* **"Durst" $\rightarrow$ "Dared"**
 * **"Farthing" $\rightarrow$ "Penny"**
 * **"Subtilly" $\rightarrow$ "Treacherously"**
 * **Passage-Specific Clarifications:**
