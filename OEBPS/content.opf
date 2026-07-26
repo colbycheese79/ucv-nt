@@ -4,13 +4,13 @@
     <dc:title id="title">Updated Common Version New Testament</dc:title>
     <dc:creator id="id">Noah Webster, Colby Braden</dc:creator>
     <dc:identifier>calibre:2</dc:identifier>
-    <dc:identifier>uuid:da1b4727-6d2d-4f0d-b759-615d028d8609</dc:identifier>
+    <dc:identifier>uuid:00c443e9-42ed-4617-ace8-472ca038fcbf</dc:identifier>
     <dc:identifier id="uid">urn:uuid:acec4dde-197c-57c8-bbdd-31bf4787421e</dc:identifier>
     <dc:rights>Public Domain</dc:rights>
     <dc:language>en</dc:language>
     <meta refines="#title" property="title-type">main</meta>
     <meta refines="#title" property="file-as">Updated Common Version New Testament</meta>
-    <meta property="dcterms:modified">2026-07-26T00:31:21Z</meta>
+    <meta property="dcterms:modified">2026-07-26T14:27:11Z</meta>
     <meta name="cover" content="cover-image"/>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta refines="#id" property="role" scheme="marc:relators">aut</meta>
