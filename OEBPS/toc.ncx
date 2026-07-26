@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:acec4dde-197c-57c8-bbdd-31bf4787421e"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (9.11.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Noah Webster Bible</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Noah Webster Bible</text>
+      </navLabel>
+      <content src="cover.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>©?</text>
+      </navLabel>
+      <content src="copyright.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>THE GOSPEL ACCORDING TO ST. MATTHEW</text>
+      </navLabel>
+      <content src="MAT.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>THE GOSPEL ACCORDING TO ST. MARK</text>
+      </navLabel>
+      <content src="MRK.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>THE GOSPEL ACCORDING TO ST. LUKE</text>
+      </navLabel>
+      <content src="LUK.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>THE GOSPEL ACCORDING TO ST. JOHN</text>
+      </navLabel>
+      <content src="JHN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>THE ACTS OF THE APOSTLES</text>
+      </navLabel>
+      <content src="ACT.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO THE ROMANS</text>
+      </navLabel>
+      <content src="ROM.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS</text>
+      </navLabel>
+      <content src="1CO.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE CORINTHIANS</text>
+      </navLabel>
+      <content src="2CO.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO THE GALATIANS</text>
+      </navLabel>
+      <content src="GAL.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO THE EPHESIANS</text>
+      </navLabel>
+      <content src="EPH.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO THE PHILIPPIANS</text>
+      </navLabel>
+      <content src="PHP.xhtml"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO THE COLOSSIANS</text>
+      </navLabel>
+      <content src="COL.xhtml"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS</text>
+      </navLabel>
+      <content src="1TH.xhtml"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>THE SECOND EPISTLE OF PAUL THE APOSTLE TO THE THESSALONIANS</text>
+      </navLabel>
+      <content src="2TH.xhtml"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>THE FIRST EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</text>
+      </navLabel>
+      <content src="1TI.xhtml"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>THE SECOND EPISTLE OF PAUL THE APOSTLE TO TIMOTHY</text>
+      </navLabel>
+      <content src="2TI.xhtml"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO TITUS</text>
+      </navLabel>
+      <content src="TIT.xhtml"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO PHILEMON</text>
+      </navLabel>
+      <content src="PHM.xhtml"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>THE EPISTLE OF PAUL THE APOSTLE TO THE HEBREWS</text>
+      </navLabel>
+      <content src="HEB.xhtml"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>THE GENERAL EPISTLE OF JAMES</text>
+      </navLabel>
+      <content src="JAS.xhtml"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>THE FIRST EPISTLE GENERAL OF PETER</text>
+      </navLabel>
+      <content src="1PE.xhtml"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>THE SECOND EPISTLE GENERAL OF PETER</text>
+      </navLabel>
+      <content src="2PE.xhtml"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>THE FIRST EPISTLE GENERAL OF JOHN</text>
+      </navLabel>
+      <content src="1JN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>THE SECOND EPISTLE OF JOHN</text>
+      </navLabel>
+      <content src="2JN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>THE THIRD EPISTLE OF JOHN</text>
+      </navLabel>
+      <content src="3JN.xhtml"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>THE GENERAL EPISTLE OF JUDE</text>
+      </navLabel>
+      <content src="JUD.xhtml"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>THE REVELATION OF ST. JOHN THE DIVINE</text>
+      </navLabel>
+      <content src="REV.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
