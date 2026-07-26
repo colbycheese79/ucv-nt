@@ -53,8 +53,13 @@ The archaic usage of "charity" (from the Latin *caritas*) in place of "love" (*a
 ### 2. Systematic Vocabulary Modernizations
 * **"Haply" $\rightarrow$ "Perhaps":** Changed in all occurrences (e.g., Luke 14:29, Acts 5:39, Acts 17:27) to prevent common confusion with "happily."
 * **"Dissimulation" $\rightarrow$ "Hypocrisy":** Updated in passages like **Romans 12:9** and **Galatians 2:13**.
+* **"Corn" $\rightarrow$ "Grain"**
+* **"Dust" $\rightarrow$ "Dared"**
+* **"Farthing" $\rightarrow$ "Penny"**
+* **"Subtilly" $\rightarrow$ "Treacherously"**
 * **Passage-Specific Clarifications:**
   * **Matthew 10:35** – Modernized archaic relational/familial terminology.
+  * **Acts 5:24** – Modernized archaic phrasing to "wondered what the outcome would be".
   * **Romans 11:14** – Clarified archaic phrasing ("emulation" / "my flesh" $\rightarrow$ "jealousy" / "my own people").
   * **Galatians 5:20** – Modernized obscure terms in the list of the works of the flesh ("emulations", "variance", "seditions" $\rightarrow$ "jealousy", "strife", "divisions").
 
@@ -65,7 +70,7 @@ The Book of Revelation includes four targeted textual corrections where early pr
 | :--- | :--- | :--- | :--- |
 | **Rev 14:1** | "...having his Father's name written..." | "...having **his name and** his Father's name written..." | Restores the Lamb's name alongside the Father's name based on manuscript evidence. |
 | **Rev 16:5** | "...and shalt be..." | "...**O Holy One**..." | Undoes Theodore Beza's 1598 conjectural emendation, restoring the Greek manuscript reading ($\kappa\alpha\grave{\iota}\ \delta\acute{o}\sigma\iota o\varsigma$). |
-| **Rev 17:8** | "...and yet is..." | "...and **shall be present**..." | Corrects the translation to align with the underlying Greek verb form ($\kappa\alpha\grave{\iota}\ \pi\alpha\rho\acute{\epsilon}\sigma\tau\alpha\iota$). |
+| **Rev 17:8** | "...and yet is..." | "...and **shall come**..." | Corrects the translation to align with the underlying Greek verb form ($\kappa\alpha\grave{\iota}\ \pi\alpha\rho\acute{\epsilon}\sigma\tau\alpha\iota$). |
 | **Rev 22:19**| "...book of life..." | "...**tree of life**..." | Corrects Erasmus's historic Latin-to-Greek back-translation printing error ($\xi\acute{\upsilon}\lambda o\upsilon\ \tau\tilde{\eta}\varsigma\ \zeta \omega\tilde{\eta}\varsigma$). |
 
 ---
