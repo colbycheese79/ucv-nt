@@ -10,7 +10,7 @@
     <dc:language>en</dc:language>
     <meta refines="#title" property="title-type">main</meta>
     <meta refines="#title" property="file-as">Updated Common Version New Testament</meta>
-    <meta property="dcterms:modified">2026-07-26T14:27:11Z</meta>
+    <meta property="dcterms:modified">2026-07-27T17:18:12Z</meta>
     <meta name="cover" content="cover-image"/>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta refines="#id" property="role" scheme="marc:relators">aut</meta>
